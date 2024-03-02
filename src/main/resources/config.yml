@@ -1,0 +1,19 @@
+#For enchantment values check here
+# https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/enchantments/Enchantment.html
+
+#You can set what the max level of an enchantment is essentially
+
+rewrites:
+  DIAMOND_HELMET:
+    PROTECTION_ENVIRONMENTAL: 1
+    #You can do multiple like so
+    #DURABILITY: 1
+  DIAMOND_CHESTPLATE:
+    PROTECTION_ENVIRONMENTAL: 1
+  DIAMOND_LEGGINGS:
+    PROTECTION_ENVIRONMENTAL: 1
+  DIAMOND_BOOTS:
+    PROTECTION_ENVIRONMENTAL: 1
+
+  DIAMOND_SWORD:
+    DAMAGE_ALL: 1

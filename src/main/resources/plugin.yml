@@ -1,0 +1,5 @@
+name: AnvilOverwriter
+version: "1.0"
+main: me.wuzzyxy.anviloverwriter.AnvilOverwriter
+api-version: "1.8"
+authors: [WuzzyLV]
